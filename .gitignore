@@ -1,0 +1,8 @@
+
+*.xml
+*.iml
+.idea/vcs.xml
+.idea/vcs.xml
+common/js/babel.js
+common/js/react-dom.js
+common/js/react.js
